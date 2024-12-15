@@ -1,6 +1,7 @@
 # Customer Intelligence Analytics: Data-Driven Segmentation
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b94b2973-cda7-44ae-85c5-421bb375b358)
+
 
 
 ## Overview
